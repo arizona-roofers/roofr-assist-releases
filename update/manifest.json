@@ -1,0 +1,10 @@
+{
+  "version": "3.4.0",
+  "minimum_chrome_version": "116",
+  "release_date": "2026-10-02T20:10:41.955Z",
+  "changelog": [
+    "Call Coach and Sales Report are now part of Roofr Assist. They stay off until you turn them on in Options.",
+    "Preview & Publish finds the Roofr job by name, address, phone or job number, and tells you when the job does not match the call."
+  ],
+  "download_url": "https://arizona-roofers.github.io/roofr-assist-releases/crx/roofr-assist-3.4.0.crx"
+}
