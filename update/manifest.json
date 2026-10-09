@@ -1,0 +1,13 @@
+{
+  "version": "3.4.17",
+  "minimum_chrome_version": "116",
+  "release_date": "2026-10-09T20:47:25.137Z",
+  "changelog": [
+    "Dialer: a lead whose number already has a Roofr job made since the lead came in is never dialed (it was booked outside the dialer). The server closes those rows as Booked.",
+    "Dialer: an existing customer calling about their job gets one callback. Before it, the dialer pauses and shows the job, its stage and a link, with Dial now or Skip.",
+    "Dialer: if someone already talked to this number since the lead came in, the dialer pauses and shows who, when and for how long, with a link to the call, before dialing again.",
+    "Dialer: leads at the attempt cap are closed by the server; the dialer no longer retries a Lost save every minute. STOP during a pause no longer hangs up an inbound call.",
+    "Call Coach: always asks \"where did you hear about us?\" and puts the answer under SOURCE in the note. Publish shows it next to the lead source and pre-picks referral, repeat, truck, yard sign, door knock, realtor, Facebook, Angi, Yelp or Modernize when the caller names one (Hunter)."
+  ],
+  "download_url": "https://arizona-roofers.github.io/roofr-assist-releases/crx/roofr-assist-3.4.17.crx"
+}
