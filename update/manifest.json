@@ -1,0 +1,11 @@
+{
+  "version": "3.4.32",
+  "minimum_chrome_version": "116",
+  "release_date": "2026-10-16T16:53:31.092Z",
+  "changelog": [
+    "Call Coach: when a call connects and Coach comes forward by itself, the Preview & Publish workspace waits for THAT call (a bar says it is still live) and switches to it once its notes save, instead of showing the caller before.",
+    "New option (Options -> Coach & Sales, off by default): open the workspace only when a call connects, not every time you click over to Coach.",
+    "New option (Options -> Address Search Actions, off by default): the Go button also brings Preview & Publish into the address tab group with Roofr, Google Earth and Gemini."
+  ],
+  "download_url": "https://arizona-roofers.github.io/roofr-assist-releases/crx/roofr-assist-3.4.32.crx"
+}
