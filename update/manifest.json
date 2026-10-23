@@ -1,0 +1,12 @@
+{
+  "version": "3.4.47",
+  "minimum_chrome_version": "116",
+  "release_date": "2026-10-23T21:12:01.863Z",
+  "changelog": [
+    "Call Coach (Hunter's 10/23 audit, every CSR): Publish waits for the AI note and checks every text for hard no's; a job at a different address needs a hand pick; a note Roofr already has is never posted twice; appointments keep their invitees and use Arizona time, and the picker only pre-picks a single upcoming Sales appointment.",
+    "Call Coach live calls: a network blip no longer drops the call audio, an update never reloads a CTM tab with a call on it, and the CSR name comes from CTM or Roofr Assist.",
+    "Answer-call shortcut: Ctrl+Shift+9 (Command+Shift+9 on a Mac) answers the ringing CTM call from anywhere.",
+    "After the update, a call that was half-confirmed in Preview & Publish asks for 'All correct' once more."
+  ],
+  "download_url": "https://arizona-roofers.github.io/roofr-assist-releases/crx/roofr-assist-3.4.47.crx"
+}
