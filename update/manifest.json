@@ -1,0 +1,10 @@
+{
+  "version": "3.4.53",
+  "minimum_chrome_version": "116",
+  "release_date": "2026-10-30T23:38:20.703Z",
+  "changelog": [
+    "Reports tab: every job that needs a Roofr report now shows \"✓ auto ok\" or \"👀 review\" with the reason (pin on the right parcel, single-family home, no unit, nothing flagged).",
+    "New checkbox \"Order ✓ auto ok jobs directly\" (off by default): Order reports buys the clean jobs without the pin screen, then opens only the flagged ones for you to check. It never pays twice and holds any job whose order status is unclear."
+  ],
+  "download_url": "https://arizona-roofers.github.io/roofr-assist-releases/crx/roofr-assist-3.4.53.crx"
+}
