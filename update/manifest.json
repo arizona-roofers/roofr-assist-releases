@@ -1,0 +1,9 @@
+{
+  "version": "3.4.70",
+  "minimum_chrome_version": "116",
+  "release_date": "2026-11-05T22:15:41.043Z",
+  "changelog": [
+    "Click-to-call: highlight a phone number (or right-click a phone link) on any website and pick \"Call with Roofr Assist\". The dialer opens a card showing who it is (Form Leads row, Roofr job and next appointment, LSA / Angi lead, a waiting Ava booking, CTM calls) and calls them from the right source, with the double-tap and the usual wrap-up. A number not on the sheet can be added to Form Leads after the call, unless they are already a Roofr customer or an LSA / Angi lead."
+  ],
+  "download_url": "https://arizona-roofers.github.io/roofr-assist-releases/crx/roofr-assist-3.4.70.crx"
+}
