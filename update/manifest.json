@@ -1,0 +1,9 @@
+{
+  "version": "3.4.71",
+  "minimum_chrome_version": "116",
+  "release_date": "2026-11-08T22:04:09.653Z",
+  "changelog": [
+    "Reports: the address banner is back on Roofr's report screen, on by default. It shows the full address with the lot or unit number and a Google Maps link that searches that exact lot or unit, so you can check the pin before ordering. A unit turns the bar amber; if the web form names a different unit, a red warning and a second Maps link for the form's unit show up. Settings > \"Show address banner on Roofr\" still turns it off."
+  ],
+  "download_url": "https://arizona-roofers.github.io/roofr-assist-releases/crx/roofr-assist-3.4.71.crx"
+}
