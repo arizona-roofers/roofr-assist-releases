@@ -1,0 +1,9 @@
+{
+  "version": "3.4.77",
+  "minimum_chrome_version": "116",
+  "release_date": "2026-11-19T17:45:08.430Z",
+  "changelog": [
+    "Behind the scenes: the flexible-time answer from a booked call is now sent to the scheduling manager's Rep Route Planner (a Flex or Locked badge on the appointment). Nothing changes on your screen, and it still never goes into the rep's note."
+  ],
+  "download_url": "https://arizona-roofers.github.io/roofr-assist-releases/crx/roofr-assist-3.4.77.crx"
+}
