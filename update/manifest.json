@@ -1,0 +1,10 @@
+{
+  "version": "3.4.89",
+  "minimum_chrome_version": "116",
+  "release_date": "2026-11-25T15:22:17.870Z",
+  "changelog": [
+    "Preview & Publish (New workspace): fixed the Yes and No buttons in the \"Do this next\" box. They moved the Texts OK dropdown but did not save the answer. One click now saves it, turns the Texts OK row green, and the box moves on to the next thing.",
+    "Only CSRs with New workspace turned on had this problem."
+  ],
+  "download_url": "https://arizona-roofers.github.io/roofr-assist-releases/crx/roofr-assist-3.4.89.crx"
+}
